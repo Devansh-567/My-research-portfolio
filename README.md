@@ -1,6 +1,6 @@
 # 📚 My Research Portfolio
 
-This repository contains my research work, including published papers, source code, and supplementary materials in the field of Science and Technology.
+This repository contains my research work, including published papers
 
 ---
 
